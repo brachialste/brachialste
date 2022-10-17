@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @brachialste and I´m and Android Dev 🤖
+- 👋 Hi, I’m @brachialste and I´m and Android Developer 🤖
 - 👀 I’m interested in Mobile Development, Criptography, Augmented Reality and Pattern Recognition
-- 🌱 I’m currently learning Clean Architecture
+- 🌱 I’m currently learning Clean Architecture and Swift language for iOS dev
 - 📫 How to reach me - @brachialste
 
 <!---
